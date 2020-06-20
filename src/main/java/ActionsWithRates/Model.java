@@ -1,3 +1,5 @@
+package ActionsWithRates;
+
 public class Model {
 
     private String time;
